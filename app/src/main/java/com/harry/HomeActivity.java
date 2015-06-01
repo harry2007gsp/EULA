@@ -29,7 +29,7 @@ public class HomeActivity extends Activity {
     // Methos to handleClick Event of Sign Out Button
     public void signUp(View v) {
         /// Create Intent for SignUpActivity  abd Start The Activity
-        Intent intentEula = new Intent(getApplicationContext(), Activity1.class);
+        Intent intentEula = new Intent(getApplicationContext(), EULA.class);
         startActivity(intentEula);
     }
 

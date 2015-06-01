@@ -13,7 +13,7 @@ import android.widget.Toast;
 import com.techblogon.loginexample.R;
 
 
-public class Activity1 extends Activity {
+public class EULA extends Activity {
     CheckBox checkBox1;
     CheckBox checkBox2;
 
